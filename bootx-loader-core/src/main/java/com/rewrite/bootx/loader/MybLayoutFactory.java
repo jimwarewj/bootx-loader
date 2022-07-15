@@ -35,7 +35,7 @@ public class MybLayoutFactory implements LayoutFactory
         @Override
         public String getLauncherClassName() {
             // 替换为我们自己的 JarLauncher
-            return "com.meiyibao.bootx.loader.JarLauncher";
+            return "com.rewrite.bootx.loader.JarLauncher";
         }
 
 
