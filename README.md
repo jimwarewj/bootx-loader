@@ -4,7 +4,9 @@ spring-boot-maven-plugin插件类加载优化
 参考：
 https://blog.csdn.net/javaYY_/article/details/125690216
 
-#使用
+
+使用方法：
+```
 <plugin>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-maven-plugin</artifactId>
@@ -26,3 +28,4 @@ https://blog.csdn.net/javaYY_/article/details/125690216
         </dependency>
     </dependencies>
 </plugin>
+```
