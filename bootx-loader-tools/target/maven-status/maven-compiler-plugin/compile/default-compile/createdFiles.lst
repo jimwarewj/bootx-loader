@@ -1,6 +1,0 @@
-com\rewrite\bootx\loader\CachedLaunchedURLClassLoader.class
-com\rewrite\bootx\loader\ClassSpec.class
-com\rewrite\bootx\loader\JarIndexLaunchedURLClassLoader.class
-com\rewrite\bootx\loader\JarLauncher.class
-com\rewrite\bootx\loader\LoadClassResult.class
-com\rewrite\bootx\loader\JarFileResourceLoader.class
