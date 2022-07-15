@@ -16,15 +16,15 @@ https://blog.csdn.net/javaYY_/article/details/125690216
                 <goal>repackage</goal>
             </goals>
             <configuration>
-                <layoutFactory implementation="com.seewo.psd.bootx.loader.tools.MyLayoutFactory"/>
+                <layoutFactory implementation="com.rewrite.bootx.loader.MybLayoutFactory"/>
             </configuration>
         </execution>
     </executions>
     <dependencies>
         <dependency>
-            <groupId>com.seewo.psd.bootx</groupId>
-            <artifactId>bootx-loader-tools</artifactId>
-            <version>0.1.1</version>
+              <groupId>com.meiyibao</groupId>
+            <artifactId>bootx-loader-core</artifactId>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 </plugin>
